@@ -1,2 +1,2 @@
 # PM2
-Nothing is here yet but wait a while and soemthing will be here ;)
+Download stuff for mac, linux, and mobile versions of gzdoom.
